@@ -1,0 +1,30 @@
+{
+  "name": "webhooks-test",
+  "version": "1.0.0",
+  "description": "BigCommerce Webhooks Tutorial",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/slsriehl/bigcommerce-interview.git"
+  },
+  "keywords": [
+    "ngrok",
+    "node",
+    "express",
+    "webhooks",
+    "bigcommerce"
+  ],
+  "author": "Sarah Schieffer Riehl",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/slsriehl/bigcommerce-interview/issues"
+  },
+  "homepage": "https://github.com/slsriehl/bigcommerce-interview#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "ngrok": "^4.2.2"
+  }
+}
