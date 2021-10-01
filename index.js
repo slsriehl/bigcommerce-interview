@@ -5,8 +5,10 @@ const app = express();
 // when there's a post request to /webhooks...
 app.post('/webhooks', function (req, res) {
 
+    // console.log('schwing');
     // respond with 200 OK
     res.send('OK');
+    // res.send('Hello!');
 });
 
 // listen to port 3000
