@@ -20,7 +20,10 @@ Results from the tutorial as written are at [`ok-result.html`](https://github.co
 
 ## Feedback
 
-Provided to recruiter per Writing Assignment instructions.  Please contact me at [by email](mailto:sls.riehl@gmail.com) if it's missing
+Provided to recruiter per Writing Assignment instructions.  Please contact me at [by email](mailto:sls.riehl@gmail.com) if it's missing.  
+
+Many thanks, 
+Sarah.
 
 
 
