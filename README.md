@@ -16,7 +16,7 @@ Sarah Schieffer Riehl.
 
 ## Notes
 
-Results from the tutorial as written are at `ok-result.html` (not super reader friendly) and `ok-result.pdf`.
+Results from the tutorial as written are at [`ok-result.html`](https://github.com/slsriehl/bigcommerce-interview/blob/trunk/ok-result.html) (not super reader friendly) and [`ok-result.pdf`](https://github.com/slsriehl/bigcommerce-interview/blob/trunk/ok-result.pdf).
 
 ## Feedback
 
